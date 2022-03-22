@@ -18,6 +18,8 @@ cd ToDoList
 
 npm install ou npm -i (pour installer les dépandences)
 
+ng serve (lancer le serveur localhost:4200)
+
     INSTALLATION ANGULAR
 
 npm install -g @angular/cli
